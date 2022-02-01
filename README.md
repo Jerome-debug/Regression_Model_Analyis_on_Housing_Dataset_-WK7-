@@ -1,6 +1,4 @@
-# Week_7_Core_IP
-
-Analysis on the factors affecting the Pricing of a House.
+Overview 
 
 As a Data Scientist, you work for Hass Consulting Company which is a real estate leader with over 25 years of experience. You have been tasked to study the factors that affect housing prices using the given information on real estate properties that was collected over the past few months. Later onwards, create a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables. 
 
@@ -24,3 +22,38 @@ Quantile Regression
 Ridge Regression
 Lasso Regression
 Elastic Net Regression
+Remember to go through the rubric so that you can see how you will be assessed on the above regression techniques. 
+
+Dataset
+
+The dataset to use for this project can be found by following this link: [http://bit.ly/IndependentProjectWeek7Dataset (Links to an external site.)]. 
+
+Below is the dataset glossary:
+
+Id 
+price  - Price of the house
+bedrooms - Number of Bedrooms
+bathrooms - Number of Bathrooms
+sqft_living - Square feet area of living area
+sqft_lot  - Square feet area of parking Layout
+floors - Number of Floors
+waterfront - Whether waterfront is there or not
+view - Number of Views
+grade - Grades
+sqft_above
+sqft_basement - Square feet area off basement
+yr_built - Year the house is built
+yr_renovated - Year the house is renovated
+zipcode - zipcode os the house
+lat : Latitude of the house
+lon : Longitude of the house
+sqft_living15
+sqft_lot15
+Submission & Evaluation
+The submission to this week's Independent Project should be made here [Link]. This submission will be a link to your GitHub repository.  
+
+Note:
+
+The deadline for this assessment is 6.00 pm on the day of the assessment.
+Late submissions will not be assessed. 
+Do not seek to copy someone else’s work while working on this Independent project. You deny yourself an opportunity to learn whenever you resolve to plagiarism.  
