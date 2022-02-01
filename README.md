@@ -26,7 +26,7 @@ Remember to go through the rubric so that you can see how you will be assessed o
 
 Dataset
 
-The dataset to use for this project can be found by following this link: [http://bit.ly/IndependentProjectWeek7Dataset (Links to an external site.)]. 
+The dataset to use for this project can be found by following this link: ("[http://bit.ly/IndependentProjectWeek7Dataset (Links to an external site.)]"). 
 
 Below is the dataset glossary:
 
@@ -49,11 +49,5 @@ lat : Latitude of the house
 lon : Longitude of the house
 sqft_living15
 sqft_lot15
-Submission & Evaluation
-The submission to this week's Independent Project should be made here [Link]. This submission will be a link to your GitHub repository.  
 
-Note:
 
-The deadline for this assessment is 6.00 pm on the day of the assessment.
-Late submissions will not be assessed. 
-Do not seek to copy someone else’s work while working on this Independent project. You deny yourself an opportunity to learn whenever you resolve to plagiarism.  
